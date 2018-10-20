@@ -30,7 +30,13 @@
             android:layout_weight="1"
             android:background="@drawable/top_banner"
             android:text="Toggle Classic Group" />
-        
+
+        <fragment
+            android:id="@+id/best_seller"
+            android:name="com.goldenscent.fragment.BestSellerFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2.5" />
 
         <View
             android:layout_width="match_parent"
