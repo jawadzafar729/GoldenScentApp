@@ -35,7 +35,7 @@
     </RelativeLayout>
 
 
-    <app.desing.com.mytestapplication.expandUtil.ExpandableLayout
+    <com.goldenscent.expandUtil.ExpandableLayout
         android:id="@+id/expandable_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -179,6 +179,6 @@
 
         </LinearLayout>
 
-    </app.desing.com.mytestapplication.expandUtil.ExpandableLayout>
+    </com.goldenscent.expandUtil.ExpandableLayout>
 
 </LinearLayout>
