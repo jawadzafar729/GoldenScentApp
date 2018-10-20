@@ -44,6 +44,12 @@
             android:layout_alignParentBottom="true"
             android:background="@drawable/divider" />
 
+        <fragment
+            android:id="@+id/rightFragment"
+            android:name="com.goldenscent.fragment.ExpandableListFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3" />
 
     </LinearLayout>
 
